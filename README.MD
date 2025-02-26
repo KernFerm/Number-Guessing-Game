@@ -12,9 +12,7 @@ If you find this project useful, please give it a star! Your support is apprecia
 ### 🐍 Python Versions
 If you don’t have Python installed, here are a few options:
 - **You only need one version of Python to run this game!**
-  - [Python 3.11.6](https://github.com/KernFerm/Py3.11.6installer)
   - [Python 3.11.9](https://github.com/KernFerm/Py3.11.9installer)
-  - [Python 3.12.1](https://github.com/KernFerm/Py3.12.1-installer-batch)
 
 ## ✨ Features
 - 🌐 User-friendly interface with text prompts.
