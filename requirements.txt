@@ -2,7 +2,7 @@
 # Python dependencies for the modern GUI Number Guessing Game
 
 # Main GUI Framework
-customtkinter>=5.2.0
+customtkinter>=5.2.2
 
 # Standard library modules (included with Python)
 # tkinter - Built-in GUI toolkit (used for menu components)
