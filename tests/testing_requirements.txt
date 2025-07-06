@@ -1,0 +1,16 @@
+# Code formatting and linting (optional)
+# black>=24.0.0
+# flake8>=7.0.0
+
+# Testing framework (optional)
+# pytest>=8.0.0
+
+# Documentation generation (optional)
+# sphinx>=7.0.0
+
+# Virtual environment management (optional)
+# virtualenv>=20.26.0
+
+# Requirements file generation (optional)
+# pipreqs>=0.5.0
+
